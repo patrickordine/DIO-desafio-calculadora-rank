@@ -1,6 +1,5 @@
 # DIO-desafio-calculadora-rank
-Calculadora de partidas ranqueadas
-/* # 2️⃣ Calculadora de partidas Rankeadas
+# 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
